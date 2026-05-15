@@ -27,9 +27,9 @@ Hi, I'm **Meteorkid** (刘鑫宇) — 全栈开发工程师，专注于 AI 应�
 
 ## 截图
 
-### GitHub Profile 首页
+### GitHub Profile 首页（项目实际展示位置）
 
-![meteor Profile](docs/screenshots/meteor-github-profile.png)
+![meteor Profile](docs/screenshots/meteor-profile.png)
 
 ## 联系
 
