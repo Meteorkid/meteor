@@ -25,6 +25,12 @@ Hi, I'm **Meteorkid** (刘鑫宇) — 全栈开发工程师，专注于 AI 应�
 | [Tollow](https://github.com/Meteorkid/Tollow) | 打字练习网站 | React / TypeScript |
 | [nanyu-consumer-site](https://github.com/Meteorkid/nanyu-consumer-site) | 玉汝于成消费者入口 | Next.js / Tailwind CSS |
 
+## 截图
+
+### GitHub Profile 首页
+
+![meteor Profile](docs/screenshots/meteor-github-profile.png)
+
 ## 联系
 
 - GitHub: [@Meteorkid](https://github.com/Meteorkid)
